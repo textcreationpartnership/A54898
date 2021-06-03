@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pindarique ode, on their Royal Highnesses happy return from Scotland after his escape at sea</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54898</idno><idno type="EEBO-CITATION">11878749</idno>
+  <idno type="VID">50285</idno>
+  <idno type="EEBO-PROQUEST">2240903547</idno>
+  
+            <idno type="STC">Wing P2254B</idno>
+            <idno type="STC">ESTC R2544</idno>
+            <idno type="OCLC">11878749</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 505:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pindarique ode, on their Royal Highnesses happy return from Scotland after his escape at sea</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Godbid and J. Playford for Jos. Hindmarsh ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III, --  King of England, 1650-1702 --  Poetry.</term>
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50285:1"/>
+            <pb facs="tcp:50285:1"/>
+            <p>A Pindarique ODE, ON THEIR Royal Highnesses HAPPY RETURN FROM SCOTLAND AFTER HIS Escape at Sea.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>A. Godbid</hi> and <hi>J. Playford</hi> for <hi>Jos. Hindmarsh</hi> at the Sign of the Black Bull near the Royal-Exchange in <hi>Cornhill,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:50285:2"/>
+            <pb n="3" facs="tcp:50285:2"/>
+            <head>A Pindarique Ode.</head>
+            <lg>
+               <head>I.</head>
+               <l>WIth the same joy (those poor deserted men</l>
+               <l>On <hi>Greenland-shore</hi> beheld the Sun agen</l>
+               <l>After being left a prey</l>
+               <l>To Night, wild Beasts, and all devouring Sea)</l>
+               <l>Forth from our dark Recesses are we come,</l>
+               <l>Illustrious Prince to bid Thee welcome home,</l>
+               <l>And at thy Feet our selves and wishes lay:</l>
+               <l>Long hath the cold congealed North been blest</l>
+               <l>With thy warm Beams, which have dissolv'd each brest,</l>
+               <l>And melted down with Art,</l>
+               <l>Each Frozen and Rebellious Heart,</l>
+               <l>Then bound them up in bands of Love, and Loyal Interest.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>Since Thou wert there,</l>
+               <l>The Salvage High-lands like a Court appear,</l>
+               <l>So civil, so obliging ever<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> where;</l>
+               <l>Thus <hi>Rome</hi> of old was fam'd</l>
+               <l>When <hi>Africk</hi> She, and barbarous <hi>Scythia</hi> tam'd,</l>
+               <l>But 'twas her Arms subdu'd: Whilst unto Thee</l>
+               <l>(Without th' inforcement of thy Sword)</l>
+               <l>Each stubborn Rebel bows the Knee,</l>
+               <l>Thy only presence gains a Victory,</l>
+               <l>And every place fresh Lawrels doth afford,</l>
+               <l>As if with <hi>Caesar</hi> Thou</l>
+               <l>Hadst nothing more to do,</l>
+               <l>Then come, and see, and overcome us too.</l>
+            </lg>
+            <lg>
+               <head>III.</head>
+               <l>As when some lusty Bridegroom doth attend</l>
+               <l>That happy minute shall his joys compleat,</l>
+               <l>And sighing thinks that Day will never end,</l>
+               <l>Whose envious hours debarrs his hopes to meet</l>
+               <l>In the Embraces of the Genial Sheet:</l>
+               <l>So every minute did an hour seem,</l>
+               <l>Each hour a Day, each Day an Age, whil'st we</l>
+               <l>Only injoy'd Thee in a Dream,</l>
+               <l>Like sleeping Virgins in Loves Extasie:</l>
+               <l>
+                  <hi>Plebeian</hi> Souls, who know no difference</l>
+               <l>Between a Peasant and a Prince,</l>
+               <l>Like <hi>Aesop</hi>'s Dunghil Cocks are only born</l>
+               <l>To prize a single Barly-Corn</l>
+               <pb n="4" facs="tcp:50285:3"/>
+               <l>Beyond the richest Jem,</l>
+               <l>And yet</l>
+               <l>Each known and able Artist thinks it fit</l>
+               <l>To Adorn some mighty Princes Diadem:</l>
+               <l>So our great Monarch who doth move</l>
+               <l>In the sublimest Sphear, above</l>
+               <l>Such vulgar Orbs, knows how to value Thee,</l>
+               <l>Whil'st in his Breast thou shalt a Relique be</l>
+               <l>Of Honour, and untainted Loyalty.</l>
+            </lg>
+            <lg>
+               <head>IV.</head>
+               <l>When the Gygantick Sons of Earth,</l>
+               <l>(Who from the Chaos first took Birth)</l>
+               <l>Heap'd Hills on Hills, and Rocks and Mountains threw</l>
+               <l>Against Heaven's Battlement,</l>
+               <l>The Gods a while sat smiling for to view</l>
+               <l>Their fond intent,</l>
+               <l>And then at once their forked Thunder sent,</l>
+               <l>Which head-long drove to Hell that impious Crew:</l>
+               <l>Thus when the Hair-brain'd Sons of Ignorance did</l>
+               <l>Level their Darts of Envy at thy Head,</l>
+               <l>Thou with a generous disdain</l>
+               <l>Did'st view that giddy train,</l>
+               <l>And thy own single Virtue did'st oppose</l>
+               <l>Against thy raging Foes:</l>
+               <l>So fixt and solid Rocks when <hi>Boreas</hi> Raves,</l>
+               <l>With silent scorn repel th' invading Wayes.</l>
+               <l>But when more insolent they grew,</l>
+               <l>And Mountains of reproaches threw,</l>
+               <l>When they did rear</l>
+               <l>Rocks of Rebellion in the Air,</l>
+               <l>And pure Religion by the Roots did tear:</l>
+               <l>At once Thou didst thy Princely rage let go,</l>
+               <l>At once their Malice over-throw,</l>
+               <l>And head-long them, and their black Crimes hast sent,</l>
+               <l>To howle in Regions of Despair, and Flames of Discontent.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>Ah! rash and inconsiderate <hi>Phaeton,</hi>
+               </l>
+               <l>What made thy fond desire</l>
+               <l>So much aspire,</l>
+               <l>To guide the flaming Char'ot of the Sun?</l>
+               <l>It would have safer been,</l>
+               <l>If with the Golden mean,</l>
+               <l>The Lower Orbs thou had'st survey'd,</l>
+               <l>And let thy Father his own Day have sway'd:</l>
+               <l>Well knew his fiery Coursers how to trace</l>
+               <l>Those usual Paths of Light,</l>
+               <l>Which through the Mornings Gates with wonted pace,</l>
+               <l>Led them to <hi>Thetis</hi> cooling Streams at Night,</l>
+               <l>But when thy feeble hand no more</l>
+               <l>Their fury could restrain, then they</l>
+               <pb n="5" facs="tcp:50285:3"/>
+               <l>Through Seas of Clouds sought their forbidden way,</l>
+               <l>And numerous Worlds of distant Starrs survey,</l>
+               <l>Starrs only known to Gods themselves before,</l>
+               <l>Whilst the whole Heavens with threatning Flames do roar:</l>
+               <l>
+                  <hi>Jove</hi> from on high</l>
+               <l>Beheld the scorching Earth, and flaming Sky,</l>
+               <l>
+                  <hi>Jove</hi> shook the World with Thunder: but dismay'd;</l>
+               <l>The Youth shrunk in his Guilty Head,</l>
+               <l>And now too late,</l>
+               <l>Laments his daring Crime, and wretched Fate;</l>
+               <l>But all in vain his rashness he doth own,</l>
+               <l>For from his glorious Height he tumbl'd down,</l>
+               <l>Quitting at once his Life and Hopes, together with a Throne.</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>Yet we have seen thy Head Great <hi>JAMES</hi> out-brave</l>
+               <l>The thundering Cannon, when the Neighbouring shore</l>
+               <l>Affrighted stood to hear those Monsters roar,</l>
+               <l>As wondering what the God of War would have,</l>
+               <l>Whil'st unconcern'd, as if thou didst command</l>
+               <l>The sole great Empire both of Sea and Land,</l>
+               <l>Like <hi>Jove</hi> amidst his Thunders thou hast stood,</l>
+               <l>Disposing Fate,</l>
+               <l>Then swum to Victory through a Sea of Blood,</l>
+               <l>Commanding her upon thy Sword to wait;</l>
+               <l>So march't <hi>Alcides</hi> to his <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>He Conquer'd, so return'd agen,</l>
+               <l>As when from Battel our great Admiral came,</l>
+               <l>Cover'd with Lawrels, and inrich't by Fame;</l>
+               <l>Only in this, <hi>Jove</hi>'s Off-spring is out-done,</l>
+               <l>Thou hast beyond his <hi>Ne Plus Ultra</hi> gone,</l>
+               <l>Since thy more glorious Trophies be</l>
+               <l>As on the Land erected on the Sea.</l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>But Aged <hi>Neptune</hi> views with jealous Eyes</l>
+               <l>His growing Glory, and in passion cryes:</l>
+               <l>Now <hi>Jove</hi> defend the Empire of your Skyes,</l>
+               <l>The World's too little grown</l>
+               <l>For his great Mind,</l>
+               <l>Nor will it be confin'd</l>
+               <l>Within the limits of our Liquid Throne,</l>
+               <l>How oft with furious Keels hath he</l>
+               <l>Plough'd up the Foaming Billows of the Sea?</l>
+               <l>Riding in Triumph, whil'st his daring Prow</l>
+               <l>Knocks at Heaven Gates, then tilts at Hell below,</l>
+               <l>And all our silent Subjects of the Main</l>
+               <l>Swim round, as proud they can augment his Train;</l>
+               <l>But he shall know what e're his power's on Land,</l>
+               <l>We in our Watry Kingdoms will command:</l>
+               <l>This said, his awful Trydent he doth shake,</l>
+               <l>The Seas do roar, but gentle Rivers quake,</l>
+               <pb n="6" facs="tcp:50285:4"/>
+               <l>And in their Channels shrowd,</l>
+               <l>Whil'st from a sullen Cloud</l>
+               <l>Unruly <hi>Boreas</hi> raves,</l>
+               <l>And Troops of nimble Winds do wing Battalions of the Waves.</l>
+               <l>Thus Arm'd the <hi>Trytons</hi> Sound a Charge, when all</l>
+               <l>Th' imbattell'd Surges on the Heroe fall,</l>
+               <l>The mighty Waves, like mighty Hills appear,</l>
+               <l>Yet his bold Course he thorow them doth stear,</l>
+               <l>Looks on the danger, but disdains the fear.</l>
+            </lg>
+            <lg>
+               <head>VIII.</head>
+               <l>Yet brave <hi>Obryan,</hi> and great <hi>Roxborough</hi> fell,</l>
+               <l>With Valiant <hi>Hopton, Douglas, Hyde</hi> and <hi>Hume,</hi>
+               </l>
+               <l>Who all deserv'd a Nobler Fate and Tomb:</l>
+               <l>But yet in vain ye mighty Billows swell,</l>
+               <l>Since 'twas their choice, not you which made them fall,</l>
+               <l>As willing Victims to their Admiral:</l>
+               <l>Heaven view'd the Inraged Sea,</l>
+               <l>Their generous danger, and their piety,</l>
+               <l>Heaven smil'd to think that they</l>
+               <l>Would rob the envious Waters of their prey,</l>
+               <l>And through those traceless paths to bliss would find their way,</l>
+               <l>Whil'st with a shout they mount the Sky,</l>
+               <l>And as they cut the Ambient Air</l>
+               <l>Look from on high</l>
+               <l>Upon the <hi>DUKE,</hi> the Subject of their Cor<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Whom seeing safe,</l>
+               <l>The happy Souls at angry <hi>Neptune</hi> laugh,</l>
+               <l>And then with Songs of Triumph, take their flight</l>
+               <l>Into blest Mansions of Eternal Light:</l>
+               <l>But Royal <hi>YORK,</hi> do thou in safety go,</l>
+               <l>(Guarded by Angels free from harms)</l>
+               <l>To Loves desir'd Port, thy lovely Consorts Arms:</l>
+               <l>And thou O Barque which do'st include him, know,</l>
+               <l>Thou carriest <hi>Caesar,</hi> and his Fortune too.</l>
+            </lg>
+            <lg>
+               <head>IX.</head>
+               <l>Amongst those happy Spirits that look'd down</l>
+               <l>From the Arch'd Skys <hi>Carulean</hi> Throne,</l>
+               <l>Th' exalted Soul of <hi>Cowley</hi> did descend,</l>
+               <l>
+                  <hi>Cowley</hi> to learned <hi>Scarbrough</hi> still a friend,</l>
+               <l>From whose inspir'd numbers he</l>
+               <l>Hath reach't (whilst mortal) immortality,</l>
+               <l>And if we passion may ascribe</l>
+               <l>To those who dwell above,</l>
+               <l>Of all that bright, and blest Celestial Tribe,</l>
+               <l>His Vehicle was most compos'd of Love,</l>
+               <l>Whilst with his wonted Raptures thus he sues,</l>
+               <l>To wise <hi>Apollo</hi> Patron of his Muse:</l>
+               <l>Father of Light, O <hi>Phoebus,</hi> dear</l>
+               <l>To Gods, and Men, look down and see</l>
+               <l>Thy Son, thy <hi>Aesculapius</hi> in despair,</l>
+               <pb n="7" facs="tcp:50285:4"/>
+               <l>Opprest and lost if not releiv'd by thee;</l>
+               <l>
+                  <hi>Scarbrough,</hi> whom Fame doth Natures Darling call,</l>
+               <l>For he hath found and knows her secrets all,</l>
+               <l>From lofty Cedars to sweet Hysop on the Wall</l>
+               <l>He in Arts mysterious maze</l>
+               <l>Hath discover'd various ways,</l>
+               <l>Only: known to Gods before:</l>
+               <l>Whom poor Mortals think to be</l>
+               <l>Some compassionate Deity,</l>
+               <l>Sent down enfeebled Nature to restore.</l>
+               <l>Some gracious Act then of deliverance send,</l>
+               <l>And save thy Son, and save thy <hi>Cowley</hi>'s Friend.</l>
+            </lg>
+            <lg>
+               <head>X.</head>
+               <l>He spoke, the God inclin'd his sacred head,</l>
+               <l>And with a smile confirm'd, what his great Prophet said,</l>
+               <l>Then with his richest Rays,</l>
+               <l>He gilds Seraphick <hi>Cowley</hi>'s Bays,</l>
+               <l>And as a farther Signal of his Love,</l>
+               <l>Himself descends, and doth the Waves reprove,</l>
+               <l>The winds <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto their wonted Caves retire,</l>
+               <l>The trembling Waves fly from his scorching fire,</l>
+               <l>Rocks sweat for fear, and each devouring Sand</l>
+               <l>Dreads his reproof, and waits on his command;</l>
+               <l>The God now stops his foaming Team,</l>
+               <l>And from his Radiant Char'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t draws a Beam,</l>
+               <l>Which like a Plank in seeming form he darts,</l>
+               <l>Which Plank became the saving Ark, to Learning and the Arts.</l>
+            </lg>
+            <lg>
+               <head>XI.</head>
+               <l>Forbear my Muse, let Tragick Scenes alone,</l>
+               <l>And turn to yonder silver Cloud, whereon</l>
+               <l>A Brace of harmless Doves,</l>
+               <l>Trac'd to a bright Etherial Throne,</l>
+               <l>Do gently draw the Queen of Beauty down,</l>
+               <l>Attended by a thousand little Loves:</l>
+               <l>'Tis not the <hi>Cytherean</hi> Dame,</l>
+               <l>That frothy Beauty of the Sea,</l>
+               <l>Whose known, but subtile Arts,</l>
+               <l>Engender in our hearts</l>
+               <l>None but a loose and wanton flame,</l>
+               <l>Worthy of such a Deity,</l>
+               <l>But all the Goddesses in One are here:</l>
+               <l>She's chaste with <hi>Pallas,</hi> with <hi>Minerva</hi> wise,</l>
+               <l>
+                  <hi>Venus</hi> 'tis true doth on her Cheeks appear,</l>
+               <l>But <hi>Juno</hi>'s Majesty shines through her Eyes,</l>
+               <l>Virtues and Graces round about her move,</l>
+               <l>There's Musick in the motion of her treads;</l>
+               <l>Hugging his happy fate, the God of Love</l>
+               <l>In triumph (chain'd with smiles) She Captive leads,</l>
+               <l>Who since <hi>YORK</hi>'s Lovely Dutchess grac'd our Shore,</l>
+               <l>His once admir'd <hi>Psyche</hi> Courts no more.</l>
+            </lg>
+            <pb n="8" facs="tcp:50285:5"/>
+            <lg>
+               <head>XII.</head>
+               <l>See, mann'd by her great Admiral she is come,</l>
+               <l>Laden with such a Blessing home,</l>
+               <l>As doth surmount our joy,</l>
+               <l>And with a happy Omen speaks the Princely Boy:</l>
+               <l>Heaven grant him live,</l>
+               <l>Our wonted Peace, and Glory to retreive,</l>
+               <l>And by a just renown,</l>
+               <l>Within its Lawful Center fix the Crown:</l>
+               <l>Then smile Great <hi>Britain</hi>'s Genius once again,</l>
+               <l>And Musick's Daughters lofty numbers sing,</l>
+               <l>Let every Beauteous Nimph and Amorous Swain,</l>
+               <l>The greatful Tribute of affection bring,</l>
+               <l>Only let Impious men</l>
+               <l>That happy Birth contemn,</l>
+               <l>(As once they did the Ark) which will give end</l>
+               <l>To all our Fears, doth all our hopes portend:</l>
+               <l>Then let Caballing Discontents beware,</l>
+               <l>And know, whatever their pretentions are,</l>
+               <l>Heaven will of Princes and their Thrones take care,</l>
+               <l>Since none but Gods to Govern Worlds are fit,</l>
+               <l>And those whom they as Substitutes admit.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50285:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
